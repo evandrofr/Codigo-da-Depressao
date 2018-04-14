@@ -1,0 +1,14 @@
+{
+    "Abacaxi": {
+        "Preco": 2.5,
+        "Quantidade": 12
+    },
+    "Beterraba": {
+        "Preco": 3.3,
+        "Quantidade": 9
+    },
+    "Cenoura": {
+        "Preco": 1.25,
+        "Quantidade": 23
+    }
+}
