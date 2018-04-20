@@ -1,0 +1,19 @@
+{
+    "abacaxi": {
+        "Preco": 4.0,
+        "Quantidade": 3,
+        "preco": 5.0
+    },
+    "banana": {
+        "Preco": 3.56,
+        "Quantidade": 34
+    },
+    "kiwi": {
+        "Preco": 4.0,
+        "Quantidade": -2
+    },
+    "pastel": {
+        "Preco": 5.5,
+        "Quantidade": -10
+    }
+}
