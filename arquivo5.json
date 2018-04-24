@@ -1,0 +1,31 @@
+{
+    "bahia": {
+        "abacaxi": {
+            "Preco": 4.0,
+            "Quantidade": 3,
+            "preco": 5.0
+        },
+        "banana": {
+            "Preco": 3.56,
+            "Quantidade": 34
+        },
+        "kiwi": {
+            "Preco": 4.0,
+            "Quantidade": 43
+        },
+        "pastel": {
+            "Preco": 5.5,
+            "Quantidade": -10
+        }
+    },
+    "ricardoeletro": {
+        "forno": {
+            "Preco": 249.9,
+            "Quantidade": 21
+        },
+        "geladeira": {
+            "Preco": 1200.0,
+            "Quantidade": -3
+        }
+    }
+}
